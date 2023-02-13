@@ -1,5 +1,5 @@
 # ParallelPortControl
-Author: Marvin Baral (github@marvinbaral.de)
+Author: Marvin Baral
 
 Programms to control your Parallel Port written in AutoIt (Windows only). To work properely, the stdout32.dll has to be installed on your PC.
 ## The Board
